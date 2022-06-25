@@ -28,7 +28,7 @@ A prediction tool was built using the aforementioned Naive Bayes Classifier. It 
 
 <p float="left">
   <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Positive%20Tweet.png" width="460" />
-  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width="480" /> 
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width="460" /> 
 </p>
 
 <em><b>Positive and Negative Tweet</b></em><br>
