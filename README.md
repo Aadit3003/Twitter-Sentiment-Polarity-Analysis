@@ -21,7 +21,8 @@ Results
 
 Demo (2 Images)
 
-<img src="https://github.com/Aadit3003/mCNV-image-analysis/blob/d31b473560b7ad7c3ae6335809bdb7dc3e1ecea6/Assets/User%20Interface.png">
+<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/0973bdf2d4fe1af3baa6e3773bcde0da8b5450b6/Assets/Positive%20Tweet.png">
+<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/0973bdf2d4fe1af3baa6e3773bcde0da8b5450b6/Assets/Negative%20Tweet.png">
 ## References
 - <em>N. Yadav, O. Kudale, S. Gupta, A. Rao and A. Shitole, "Twitter Sentiment Analysis Using Machine Learning For Product Evaluation," 2020 International Conference on Inventive Computation Technologies (ICICT), 2020, pp. 181-185</em> ([Paper Link](https://ieeexplore.ieee.org/document/9112381))
 - Please refer to the Project Report for a more detailed analysis and explanation of the code. ([Project Report Link](https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Twitter%20Sentiment%20Analysis%20using%20Naive%20Bayes.pdf))
