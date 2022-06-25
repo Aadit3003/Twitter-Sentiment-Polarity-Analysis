@@ -7,7 +7,7 @@ We implemented a Naive Bayes (NB) Sentiment Classifier for Short-form text messa
 ## Description
 
 - <em><b>Dataset</b></em>: We used the [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140) dataset on Kaggle. It contains 1,600,000 Tweets, with exactly half (800,000) labeled as Positive and the other half labeled as Negative.
-- <em><b>Preprocessing</b></em>: THe tweets were preprocessed by removing tags, URLs, and hashtags. A total of 179 'Stop words' were also removed, including common prepositions, pronouns, and contractions. After this, we created Tf-Idf vectors for each tweet. The final vocabulary contained 260,131 words.
+- <em><b>Preprocessing</b></em>: The tweets were preprocessed by removing tags, URLs, and hashtags. A total of 179 'Stop words' were also removed, including common prepositions, pronouns, and contractions. After this, we created Tf-Idf vectors for each tweet. The final vocabulary contained 260,131 words.
 - <em><b>Training</b></em>: We used a 90:10 Train-Test split. Both Multinomial and Bernoulli NB models were used and their performance was compared. MLE (Maximum Likelihood Estimates) of the conditional probabilities were used in both models.
 - <em><b>Visualization</b></em>: The tweets in the dataset are represented as word embeddings in the form of Tf-Idf vectors. TSNE is used for dimensionality reduction to 2D and 3D, for visualizing a representative subset of the data.
 - <em><b>Results</b></em>: The Multinomial NB model outperforms Bernoulli NB in Precision, Accuracy, and F-score. However, the Bernoulli NB model however has slightly better Recall.
