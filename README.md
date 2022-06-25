@@ -18,6 +18,9 @@ We implemented a Naive Bayes (NB) Sentiment Classifier for Short-form text messa
 <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/3D%20Embedding%20TSNE.png">
 <em><b>TSNE Visualization in 3D Space</b></em>
 
+<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/f96f7b882fc4e71ea113e9eabb730e53e6d4ac6f/Assets/2D%20Embedding%20TSNE.png">
+<em><b>TSNE Visualization in 2D Space</b></em>
+
 
 
 ## Installation and Use
