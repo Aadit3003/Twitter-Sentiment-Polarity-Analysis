@@ -15,23 +15,23 @@ We implemented a Naive Bayes (NB) Sentiment Classifier for Short-form text messa
 <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/Sentiment%20140%20Dataset.png"><br>
 <em><b>Sentiment140 Dataset, from Kaggle</b></em>
 
-<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/3D%20Embedding%20TSNE.png">
-<em><b>TSNE Visualization in 3D Space</b></em>
+<p float="left">
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/3D%20Embedding%20TSNE.png" width="480" />
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/f96f7b882fc4e71ea113e9eabb730e53e6d4ac6f/Assets/2D%20Embedding%20TSNE.png" width="480" /> 
+</p>
 
-<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/f96f7b882fc4e71ea113e9eabb730e53e6d4ac6f/Assets/2D%20Embedding%20TSNE.png">
-<em><b>TSNE Visualization in 2D Space</b></em>
-
-
+<em><b>TSNE Visualization in 3D and 2D Space</b></em>
 
 ## Installation and Use
 
 A prediction tool was built using the aforementioned Naive Bayes Classifier. It takes a user tweet as input and then predicts the tweet to have either Positive sentiment, or negative sentiment. The simple python GUI also offers choice of Naive Bayes model (Multinomial or Bernoulli), and whether the user wants to apply feature selection (Chi-Square feature selection or None at all). Some sample results are shown below:
 
-<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Positive%20Tweet.png" width = "512"><br>
-<em><b>Positive Tweet</b></em><br>
+<p float="left">
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Positive%20Tweet.png" width="460" />
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width="480" /> 
+</p>
 
-<img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width = "512"><br>
-<em><b>Negative Tweet</b></em>
+<em><b>Positive and Negative Tweet</b></em><br>
 
 ## References
 - <em>N. Yadav, O. Kudale, S. Gupta, A. Rao and A. Shitole, "Twitter Sentiment Analysis Using Machine Learning For Product Evaluation," 2020 International Conference on Inventive Computation Technologies (ICICT), 2020, pp. 181-185</em> ([Paper Link](https://ieeexplore.ieee.org/document/9112381))
