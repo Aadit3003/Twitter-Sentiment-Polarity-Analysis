@@ -16,8 +16,8 @@ We implemented a Naive Bayes (NB) Sentiment Classifier for Short-form text messa
 <em><b>Sentiment140 Dataset, from Kaggle</b></em>
 
 <p float="left">
-  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/3D%20Embedding%20TSNE.png" width="480" />
-  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/f96f7b882fc4e71ea113e9eabb730e53e6d4ac6f/Assets/2D%20Embedding%20TSNE.png" width="480" /> 
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/5031f72d5cc1560be4edc5947e48a8733c06bda9/Assets/3D%20Embedding%20TSNE.png" width="400" />
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/f96f7b882fc4e71ea113e9eabb730e53e6d4ac6f/Assets/2D%20Embedding%20TSNE.png" width="400" /> 
 </p>
 
 <em><b>TSNE Visualization in 3D and 2D Space</b></em>
@@ -27,8 +27,8 @@ We implemented a Naive Bayes (NB) Sentiment Classifier for Short-form text messa
 A prediction tool was built using the aforementioned Naive Bayes Classifier. It takes a user tweet as input and then predicts the tweet to have either Positive sentiment, or negative sentiment. The simple python GUI also offers choice of Naive Bayes model (Multinomial or Bernoulli), and whether the user wants to apply feature selection (Chi-Square feature selection or None at all). Some sample results are shown below:
 
 <p float="left">
-  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Positive%20Tweet.png" width="460" />
-  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width="460" /> 
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Positive%20Tweet.png" width="400" />
+  <img src="https://github.com/Aadit3003/Twitter-Sentiment-Polarity-Analysis/blob/cf1829c9a60dac7fe07baebb32fae004e26d4d07/Assets/Negative%20Tweet.png" width="400" /> 
 </p>
 
 <em><b>Positive and Negative Tweet</b></em><br>
